@@ -1,4 +1,4 @@
-Markdown# Часть 2: Автотест Playwright (Python)
+Часть 2: Автотест Playwright (Python)
 
 Тест проверяет заголовок главной страницы https://playwright.dev/  
 Запускается на 2 браузерах (chromium, firefox).
