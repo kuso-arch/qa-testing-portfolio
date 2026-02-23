@@ -1,8 +1,11 @@
-part2-playwright/test_title.py 
 
+### 3. part2-playwright/test_title.py (улучшенный код с комментариями)
+
+```python
+"""
 Тест проверяет заголовок главной страницы Playwright.dev
 Запускается на двух браузерах: chromium и firefox
-Автор: Сергеев Александр 
+Автор: Сергеев Александр (KUSO)
 """
 
 import pytest
